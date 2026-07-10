@@ -50,13 +50,13 @@
       <rect x="12" y="38" width="776" height="116" fill="none" stroke="#4d9fff" stroke-width="1"/>
       <text x="20" y="56" font-size="11" fill="#4d9fff">╔══[ CASE FILE: 0714.USER_PROFILE ]</text>
       <text x="20" y="72" font-size="11" fill="#555">║  IDENT   :</text>
-      <text x="97" y="72" font-size="11" fill="#eeeeee">YOUR_USERNAME</text>
+      <text x="97" y="72" font-size="11" fill="#eeeeee">THAHIR (ALIAS - MANIAC)</text>
       <text x="20" y="87" font-size="11" fill="#555">║  ROLE    :</text>
-      <text x="97" y="87" font-size="11" fill="#ffffff">Software Engineer / Builder / Problem Solver</text>
+      <text x="97" y="87" font-size="11" fill="#ffffff">Full Stack Eng / Builder</text>
       <text x="20" y="102" font-size="11" fill="#555">║  STATUS  :</text>
       <text x="97" y="102" font-size="11" fill="#4d9fff">● ONLINE</text>
       <text x="20" y="117" font-size="11" fill="#555">║  LOC     :</text>
-      <text x="97" y="117" font-size="11" fill="#888">Earth, Sol System</text>
+      <text x="97" y="117" font-size="11" fill="#888">Mars, Sol System</text>
       <text x="20" y="134" font-size="11" fill="#4d9fff">╚══════════════════════════════════════════════════════════════════════════════╝</text>
   </g>
 
@@ -89,32 +89,20 @@
       <text x="26" y="22" font-size="11" fill="#4d9fff">PACKET.HDRS — TECH STACK</text>
       <text x="24" y="42" font-size="10" fill="#4d9fff" letter-spacing="2">LANGUAGES</text>
       <line x1="24" y1="46" x2="776" y2="46" stroke="#1e1e1e" stroke-width="1"/>
-      <!-- Python 92.4% -->
-      <text x="24" y="64" font-size="11" fill="#888">Idx: 0x01  Python     </text>
+      <!-- TypesSripte 92.4% -->
+      <text x="24" y="64" font-size="11" fill="#888">Idx: 0x01  TypeScript     </text>
       <rect x="173" y="55" width="495" height="10" fill="#0f1f33" stroke="#1e3a5f" stroke-width="1"/>
       <rect x="173" y="55" width="457" height="10" fill="#4d9fff"/>
       <text x="676" y="65" font-size="11" fill="#ffffff">92.4%</text>
       <text x="720" y="65" font-size="10" fill="#ffffff">ACTIVE</text>
-      <!-- JavaScript 88% -->
-      <text x="24" y="84" font-size="11" fill="#888">Idx: 0x02  JavaScript </text>
-      <rect x="173" y="75" width="495" height="10" fill="#0f1f33" stroke="#1e3a5f" stroke-width="1"/>
-      <rect x="173" y="75" width="435" height="10" fill="#4d9fff"/>
-      <text x="676" y="85" font-size="11" fill="#ffffff">88.0%</text>
-      <text x="720" y="85" font-size="10" fill="#ffffff">ACTIVE</text>
-      <!-- TypeScript 85.5% -->
-      <text x="24" y="104" font-size="11" fill="#888">Idx: 0x03  TypeScript </text>
-      <rect x="173" y="95" width="495" height="10" fill="#0f1f33" stroke="#1e3a5f" stroke-width="1"/>
-      <rect x="173" y="95" width="423" height="10" fill="#4d9fff"/>
-      <text x="676" y="105" font-size="11" fill="#ffffff">85.5%</text>
-      <text x="720" y="105" font-size="10" fill="#ffffff">ACTIVE</text>
       <!-- Rust 60% -->
-      <text x="24" y="124" font-size="11" fill="#666">Idx: 0x04  Rust       </text>
+      <text x="24" y="124" font-size="11" fill="#666">Idx: 0x02  Rust       </text>
       <rect x="173" y="115" width="495" height="10" fill="#0f1f33" stroke="#1e3a5f" stroke-width="1"/>
       <rect x="173" y="115" width="297" height="10" fill="#ffffff"/>
       <text x="676" y="125" font-size="11" fill="#555">60.0%</text>
       <text x="720" y="125" font-size="10" fill="#555">LEARNING</text>
       <!-- Go 55.2% -->
-      <text x="24" y="144" font-size="11" fill="#666">Idx: 0x05  Go         </text>
+      <text x="24" y="144" font-size="11" fill="#666">Idx: 0x01  Go         </text>
       <rect x="173" y="135" width="495" height="10" fill="#0f1f33" stroke="#1e3a5f" stroke-width="1"/>
       <rect x="173" y="135" width="273" height="10" fill="#ffffff"/>
       <text x="676" y="145" font-size="11" fill="#555">55.2%</text>
@@ -140,30 +128,30 @@
       <text x="26" y="22" font-size="11" fill="#555">TRANSFER LOG — PROJECTS</text>
       <!-- Project ONE -->
       <text x="24" y="44" font-size="11" fill="#4d9fff">&gt;&gt; Transferring Fragment: </text>
-      <text x="196"  y="44" font-size="11" fill="#ffffff">PROJECT_ONE</text>
+      <text x="196"  y="44" font-size="11" fill="#ffffff">INDIEBUILDS</text>
       <rect x="36"  y="50" width="630" height="10" fill="#0f1f33" stroke="#1e3a5f" stroke-width="1"/>
       <rect x="36"  y="50" width="612" height="10" fill="#4d9fff"/>
       <text x="674" y="60" font-size="11" fill="#ffffff">97.2%</text>
       <text x="718" y="60" font-size="10" fill="#ffffff">DEPLOYED</text>
-      <text x="36"  y="76" font-size="10" fill="#555">DESC: Short description of what this project does and why it rocks.</text>
-      <text x="36"  y="90" font-size="10" fill="#333">LINK: github.com/YOUR_USERNAME/project-one</text>
+      <text x="36"  y="76" font-size="10" fill="#555">DESC: A weekly showcase for projects shipped by indie devs.</text>
+      <!--<text x="36"  y="90" font-size="10" fill="#333">LINK: github.com/YOUR_USERNAME/project-one</text>-->
       <!-- Project TWO -->
       <text x="24" y="112" font-size="11" fill="#4d9fff">&gt;&gt; Transferring Fragment: </text>
-      <text x="196"  y="112" font-size="11" fill="#ffffff">PROJECT_TWO</text>
+      <text x="196"  y="112" font-size="11" fill="#ffffff">CONFLUX</text>
       <rect x="36"  y="118" width="630" height="10" fill="#0f1f33" stroke="#1e3a5f" stroke-width="1"/>
       <rect x="36"  y="118" width="507" height="10" fill="#ffffff"/>
       <text x="674" y="128" font-size="11" fill="#555">80.5%</text>
       <text x="718" y="128" font-size="10" fill="#555">IN PROG</text>
-      <text x="36"  y="144" font-size="10" fill="#555">DESC: Short description of what this project does and why it rocks.</text>
-      <text x="36"  y="158" font-size="10" fill="#333">LINK: github.com/YOUR_USERNAME/project-two</text>
+      <text x="36"  y="144" font-size="10" fill="#555">DESC: A knowledge base for teams.</text>
+      <!--<text x="36"  y="158" font-size="10" fill="#333">LINK: github.com/YOUR_USERNAME/project-two</text>-->
       <!-- Project THREE -->
-      <text x="24" y="180" font-size="11" fill="#4d9fff">&gt;&gt; Transferring Fragment: </text>
+      <!-- <text x="24" y="180" font-size="11" fill="#4d9fff">&gt;&gt; Transferring Fragment: </text>
       <text x="196"  y="180" font-size="11" fill="#ffffff">PROJECT_THREE</text>
       <rect x="36"  y="186" width="630" height="10" fill="#0f1f33" stroke="#1e3a5f" stroke-width="1"/>
       <rect x="36"  y="186" width="624" height="10" fill="#4d9fff"/>
       <text x="674" y="196" font-size="11" fill="#ffffff">99.1%</text>
       <text x="718" y="196" font-size="10" fill="#ffffff">STABLE</text>
-      <text x="36"  y="212" font-size="10" fill="#555">DESC: Short description of what this project does and why it rocks.</text>
+      <text x="36"  y="212" font-size="10" fill="#555">DESC: Short description of what this project does and why it rocks.</text>-->
   </g>
 
   <!-- ═══ CONTACT ═══ -->
@@ -172,14 +160,14 @@
       <rect x="12" y="12" width="776" height="120" fill="none" stroke="#333" stroke-width="1"/>
       <rect x="22" y="11" width="176" height="13" fill="#0a0a0a"/>
       <text x="26" y="22" font-size="11" fill="#555">ORACLE.NETWORK — CONTACT</text>
-      <text x="24" y="42" font-size="11" fill="#555">TERMINAL  :</text>
-      <text x="103"  y="42" font-size="11" fill="#ffffff">your.email@domain.com</text>
-      <text x="24" y="60" font-size="11" fill="#555">USERID    :</text>
-      <text x="103"  y="60" font-size="11" fill="#ffffff">linkedin.com/in/YOUR_USERNAME</text>
-      <text x="24" y="78" font-size="11" fill="#555">SKYSERVER :</text>
-      <text x="103"  y="78" font-size="11" fill="#ffffff">twitter.com/YOUR_USERNAME</text>
-      <text x="24" y="96" font-size="11" fill="#555">DEST      :</text>
-      <text x="103"  y="96" font-size="11" fill="#ffffff">yourwebsite.dev</text>
+      <text x="24" y="42" font-size="11" fill="#555">EMAIL  :</text>
+      <text x="103"  y="42" font-size="11" fill="#ffffff">imgeekkk@gmail.com</text>
+      <!--<text x="24" y="60" font-size="11" fill="#555">USERID    :</text>
+      <text x="103"  y="60" font-size="11" fill="#ffffff">linkedin.com/in/YOUR_USERNAME</text>-->
+      <text x="24" y="78" font-size="11" fill="#555">X :</text>
+      <text x="103"  y="78" font-size="11" fill="#ffffff">x.com/imgeekkk</text>
+      <text x="24" y="96" font-size="11" fill="#555">WEBSITE      :</text>
+      <text x="103"  y="96" font-size="11" fill="#ffffff">kthahir.vercel.app</text>
       <line x1="24" y1="105" x2="776" y2="105" stroke="#1e1e1e" stroke-width="1"/>
       <text x="24" y="120" font-size="11" fill="#555">KEY FOUND :</text>
       <text x="103"  y="120" font-size="11" fill="#4d9fff">[57:99:FA:90:A0:87:C0]</text>
